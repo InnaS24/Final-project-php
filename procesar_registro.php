@@ -1,6 +1,15 @@
 <html>
-<head>
 
+
+ <head>
+  <meta charset="utf-8">
+  <title>Кнопка</title>
+ </head>
+ <body>
+  <form action="page/new.html" target="_blank">
+   <button>START</button>
+  </form>
+ </body>
 
 
 <?php
@@ -24,5 +33,5 @@ $usuarios = $myPDO->query("SELECT correo_electronico, contrasena FROM usuarios")
 
 ?>
 
-</head>
+
 </html>

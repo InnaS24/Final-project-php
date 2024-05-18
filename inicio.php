@@ -1,6 +1,3 @@
-<?php
-include("procesar_registro.php");
-?>
 
 <html>
 <head>
