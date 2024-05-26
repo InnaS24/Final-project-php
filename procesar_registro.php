@@ -37,7 +37,7 @@
  </body>
 
  
-
+ <?php 
 $myPDO = new PDO('sqlite:db/mydb.sq3');
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $correo_electronico = $_POST['correo']; 
