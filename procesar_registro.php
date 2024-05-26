@@ -8,6 +8,8 @@
             font-family: Arial, sans-serif; 
             background-color: #f9f9f9; 
             background-image: url('photo/background2.jpg');
+            background-repeat: no-repeat;
+            background-position: center;
             margin: 0; 
             padding: 0; 
             text-align: center; 
