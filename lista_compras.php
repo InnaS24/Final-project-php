@@ -33,7 +33,7 @@
     <h1>Tienda de Alimentos para Mascotas</h1> 
     <div class="products"> 
         <div class="product"> 
-            <img src="path/to/dry-dog-food.jpg" alt="Comida seca para perros"> 
+            <img src="photo/dry-dog-food.jpg" alt="Comida seca para perros"> 
             <h2>Comida seca para perros</h2> 
             <p>Precio: €80</p> 
             <form action="" method="POST"> 
@@ -44,7 +44,7 @@
             </form> 
         </div> 
         <div class="product"> 
-            <img src="path/to/wet-dog-food.jpg" alt="Comida húmeda para perros"> 
+            <img src="photo/wet-dog-food.jpg" alt="Comida húmeda para perros"> 
             <h2>Comida húmeda para perros</h2> 
             <p>Precio: €20</p> 
             <form action="" method="POST"> 
@@ -55,7 +55,7 @@
             </form> 
         </div> 
         <div class="product"> 
-            <img src="path/to/dry-cat-food.jpg" alt="Comida seca para gatos"> 
+            <img src="photo/dry-cat-food.jpg" alt="Comida seca para gatos"> 
             <h2>Comida seca para gatos</h2> 
             <p>Precio: €55</p> 
             <form action="" method="POST"> 
@@ -66,7 +66,7 @@
             </form> 
         </div> 
         <div class="product"> 
-            <img src="path/to/wet-cat-food.jpg" alt="Comida húmeda para gatos"> 
+            <img src="photo/wet-cat-food.jpg" alt="Comida húmeda para gatos"> 
             <h2>Comida húmeda para gatos</h2> 
             <p>Precio: €10</p> 
             <form action="" method="POST"> 

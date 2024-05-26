@@ -7,7 +7,6 @@
         body { 
             font-family: Arial, sans-serif; 
             background-color: #f9f9f9; 
-            background-image: url('/applications/xampp/htdocs/project_final/photo'); /* Путь к вашему изображению фона */ 
             background-size: cover; 
             background-position: center; 
             margin: 0; 
