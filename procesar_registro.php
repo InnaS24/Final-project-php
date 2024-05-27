@@ -55,7 +55,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $query->execute([$correo_electronico, $contrasena]);
 }
 
-// La siguiente consulta obtiene usuarios de la tabla `usuarios` en lugar de `concerts`
+
 $usuarios = $myPDO->query("SELECT correo_electronico, contrasena FROM usuarios");
 
 ?>
